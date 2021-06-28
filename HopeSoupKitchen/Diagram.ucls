@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Assignment3.FinanceAdmin" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/FinanceAdmin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="259" y="314"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Assignment3.LoginAdmin" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/LoginAdmin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="235" x="454" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Assignment3.DonatingSet" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/DonatingSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="891" y="405"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Assignment3.AdminProgramDescription" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/AdminProgramDescription.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="336" width="256" x="1088" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Assignment3.HomeAdmin" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/HomeAdmin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="169" x="1384" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Assignment3.AdminOrganisationBackground" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/AdminOrganisationBackground.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="297" x="1593" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Assignment3.RegistrationSoupKitchen" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/RegistrationSoupKitchen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="242" x="1930" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Assignment3.OrganisationBackground" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/OrganisationBackground.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="343" x="2212" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Assignment3.ProgramDescription" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/ProgramDescription.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="356" width="661" x="2595" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Assignment3.RegistrationVirtualRun" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/RegistrationVirtualRun.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="356" width="222" x="3296" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Assignment3.Home" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/Home.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3642" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Assignment3.LoginUser" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/LoginUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="235" x="3767" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Assignment3.AdminMenuSetPrice" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/AdminMenuSetPrice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="203" x="4042" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Assignment3.Donating" project="HopeSoupKitchen" 
+    file="/HopeSoupKitchen/src/Assignment3/Donating.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="336" width="206" x="4285" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
